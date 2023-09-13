@@ -8,7 +8,7 @@ I am looking forward to using my skills in  Tableau, SQL and Python to help you 
 <td>Master in Business Administration - Heriot-Watt University</td> 
 <td>Bachelor's degree in Economics - Universita' Degli Studi Dell'Insubria</td>
 
-
+ 
 ###  🛠 Languages and Tools
 
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
