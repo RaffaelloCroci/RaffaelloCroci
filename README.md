@@ -5,7 +5,7 @@ I am looking forward to using my skills in  Tableau, SQL, and Python to help you
 
 ###   🎓 Education
 
-Master in Business Administration - Heriot-Watt University  
+Master in Business Administration - Heriot-Watt University//
 Bachelor's degree in Economics - Universsita' Degli Studi Dell'Insubria
 
 
