@@ -14,6 +14,6 @@ Previously worked across various industries with experience at tech start-ups an
 
 <p>### 👨‍🎓Education 
  
- 
+  
 </p> <p> in Business Administration - Heriot-Watt University
 Barcherl's degree - Universita' Degli Studi Dell'Insubria</p>
