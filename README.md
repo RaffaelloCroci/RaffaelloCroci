@@ -11,4 +11,4 @@ Previously worked across various industries with experience at tech start-ups an
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="http://www.w3.org/2000/svg" /> 
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="http://www.w3.org/2000/svg" />  
