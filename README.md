@@ -1,4 +1,4 @@
-## Hi, I'am Raffaello 👋
+## Hi 👋
 
 I am looking forward to using my skills in  Tableau, SQL and Python to help you perform data wrangling & manipulation, conduct exploratory and inferential analysis, build predictive models, and visualize data in an effective and engaging way!
 
