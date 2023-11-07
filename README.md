@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am looking forward to using my skills in  Tableau, SQL and Python to help you perform data wrangling & manipulation, conduct exploratory and inferential analysis, build predictive models, and visualize data effectively and engagingly! 
+I am looking forward to using my skills in  Tableau, Power BI, SQL and Python to help you perform data wrangling & manipulation, conduct exploratory and inferential analysis, build predictive models, and visualize data effectively and engagingly! 
 
 
 ##   🎓 Education
