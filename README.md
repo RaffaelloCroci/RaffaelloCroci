@@ -18,4 +18,3 @@ I am looking forward to using my skills in  Tableau, SQL and Python to help you 
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
  
- 
